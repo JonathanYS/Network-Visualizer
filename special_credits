@@ -1,0 +1,10 @@
+Special Credits:
+Images and Icons (app icons and image for visualizing the network): Flaticon.com.
+https://www.flaticon.com/free-icons/lan Lan icons created by Freepik - Flaticon
+https://www.flaticon.com/free-icons/computer Computer icons created by Freepik - Flaticon
+https://www.flaticon.com/free-icons/home Home icons created by Dave Gandy - Flaticon
+https://www.flaticon.com/free-icons/info Info icons created by Freepik - Flaticon
+
+This program scans the local network and maps it, using the ARP protocol.
+This program was written by Yonatan Deri. It is under the GNU GPLv3 License.
+For more information, you may visit the GitHub repository.
